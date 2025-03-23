@@ -1,4 +1,10 @@
 # 👋 Hi, I’m @yhyali
+Inline-style: 
+Inline-style: 
+![alt text](https://github.com/yhyali/yhyali/blob/main/screenshot.jpeg "Screenshot ")
+
+https://github.com/yhyali/yhyali/blob/main/screenshot.jpeg
+
 
 Welcome to my GitHub! I'm a **SwiftUI developer**, **3D designer**, **UX designer**, and **content creator** with a portfolio available at [rta.framer.ai](https://rta.framer.ai).
 
