@@ -9,7 +9,7 @@ can be tested using Swift playground App
 
 
 
-Welcome to my GitHub! I'm a **SwiftUI developer**, **3D designer**, **UX designer**, and **content creator** with a portfolio available at [rta.framer.ai](https://rta.framer.ai).
+Welcome to my GitHub! I'm a **SwiftUI developer**, **3D designer**, **UX designer**, and **content creator** 
 
 ## 👀 I’m interested in:
 - SwiftUI development
