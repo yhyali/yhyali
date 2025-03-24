@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @yhyali
 ## Space Travel App
-<meta property="og:title" content="Stellar Voyage Planner">
-<meta property="og:description" content="Plan your space travels seamlessly!">
-<meta property="og:image" content="https://your-image-link.com">
-<meta property="og:url" content="https://stellar-voyage-planner.lovable.app">
+[![Preview](https://github.com/yhyali/yhyali/blob/main/SCREEN.png?raw=true)](https://stellar-voyage-planner.lovable.app)
+
 
 https://stellar-voyage-planner.lovable.app
 
