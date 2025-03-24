@@ -1,15 +1,13 @@
 # 👋 Hi, I’m @yhyali
 ## Space Travel App
-### SwiftUI APP
+<meta property="og:title" content="Stellar Voyage Planner">
+<meta property="og:description" content="Plan your space travels seamlessly!">
+<meta property="og:image" content="https://your-image-link.com">
+<meta property="og:url" content="https://stellar-voyage-planner.lovable.app">
 
-can be tested using Swift playground App
+https://stellar-voyage-planner.lovable.app
 
 
-![alt text](https://github.com/yhyali/yhyali/blob/main/screenshot.jpeg "Screenshot ")
-
-# replit 
-
-https://10e09bfb-0bfa-4e86-ae64-27a3919731f0-00-1estaf0jc6vy2.picard.replit.dev
 
 Welcome to my GitHub! I'm a **SwiftUI developer**, **3D designer**, **UX designer**, and **content creator** 
 
